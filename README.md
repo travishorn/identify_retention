@@ -41,6 +41,10 @@ Output is printed to the terminal.
 
 ## Interpreting Results
 
+![Retention Curves](output/retention_curves.png)
+
+![Retention Rates](output/retention_rates.png)
+
 ```
 Retention rates for users engaging with features in the first week:
 feature_a_used: 83.56%
